@@ -2,6 +2,7 @@
   "name": "react-hex-svg-example",
   "version": "0.1.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@types/jest": "24.0.23",
     "@types/node": "12.12.8",
@@ -14,7 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts docs",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
